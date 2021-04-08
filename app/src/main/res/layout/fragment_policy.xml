@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.policy.N.PolicyFragment"
+    android:background="@drawable/gradient_1">
+
+
+
+
+    <TextView
+        android:id="@+id/text_policy"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textStyle="bold"
+       />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/paragraph"
+            android:layout_width="wrap_content"
+            android:layout_height="700dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="-1dp"
+            android:lineSpacingExtra="5sp"
+            android:padding="10dp"
+            android:text="@string/Paragraph"
+            android:textColor="@android:color/white" />
+
+    </ScrollView>
+</RelativeLayout>

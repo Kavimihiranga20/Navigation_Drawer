@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Recent Searches</string>
+    <string name="menu_category">Busses Category</string>"
+    <string name="menu_time">Time Table</string>
+    <string name="menu_policy">Privacy Policy</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_rate">Rate Us</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="menu_communicate">Communicate</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="Button1">Highway</string>
+    <string name="Button2">Intercity A/C</string>
+    <string name="Button3">Intercity Non A/C</string>
+
+    <string  name="Paragraph">Effective date October 05, 2020
+
+Busses Sri Lanka (us\', we, or four)
+operates the website and the Busses Si
+Lanka mobike application (the "Service
+
+This page informs you of our policies
+regarding the collection, use, and
+disclosure of personal data when you use
+Our Service and the choices you have
+associated with that data. Our Privacy
+Polcy for Busses-Sti Lanka is managed
+
+thvough Free Privacy Policy.
+
+We use your data to prOvide and improve
+the Service. By using the Service, you
+agree to the collection and use of
+information in accordance with ths policy
+Unless otherwise defined in this Privacy
+Policy, terms used in this Privacy Palicy
+have the same meanings as in our Terms
+and Condtions
+
+Information Collection And Use </string>
+
+    <string name="From_hint">From</string>
+    <string name="to_hint">To</string>
+
+</resources>
